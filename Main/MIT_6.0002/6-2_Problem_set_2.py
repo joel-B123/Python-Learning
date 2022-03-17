@@ -1,8 +1,6 @@
 # 6.0002 Problem Set 5
 # Graph optimization
-# Name:
-# Collaborators:
-# Time:
+# Name: Joel Buehner
 
 #
 # Finding shortest paths through MIT buildings

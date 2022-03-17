@@ -1,9 +1,6 @@
 ###########################
 # 6.0002 Problem Set 1b: Space Change
-# Name:
-# Collaborators:
-# Time:
-# Author: charz, cdenise
+# Name: Joel Buehner
 
 #================================
 # Part B: Golden Eggs
